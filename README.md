@@ -1,1 +1,1 @@
-### Implementação Django com websocket com Celery e Redis.
+### Django com serviço Websocket e gerenciamento de fila com Celery e Redis.
