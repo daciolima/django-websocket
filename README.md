@@ -1,0 +1,1 @@
+### Implementação Django com websocket com Celery e Redis.
